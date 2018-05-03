@@ -1,29 +1,22 @@
-# Sirotin
+# Sima
 
-Salt my live USB. Configure a fresh system in just two (2) commands. 
+Xubuntu Live-USB:n konffaus yhdessä paketissa. 
 
-## Usage
+## Käyttö
 
-Boot a Xubuntu live USB. 
+Buuttaa livetikulle ja avaa terminaali. Syötä seuraavat komennot: 
 
-Open a terminal with ugly-T. 
-
-	wget https://raw.githubusercontent.com/terokarvinen/sirotin/master/run.sh
+	wget https://raw.githubusercontent.com/Miyune/sima/master/run.sh
 	bash run.sh
 	 
 
-Your system is now configured. 
+Prego!
 
-## Salt tips
+## Saltin vinkkejä täältä
 
 http://terokarvinen.com/tag/salt
 
-## For Me
 
-To create your own 2 command configuration, just fork this project. 
-
-To apply your states without one-time installation steps, './highstate.sh'. 
-
-Copyright 2018 Tero Karvinen http://TeroKarvinen.com
+Copyright 2018 Tero Karvinen http://TeroKarvinen.com ja Iina Savela http://www.liinuksi.wordpress.com
 GPL 3
 
