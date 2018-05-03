@@ -1,6 +1,6 @@
 base:
   '*':
-    - hellotero
+    - helloiina
     - desk
     - live
 
